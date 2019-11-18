@@ -1,3 +1,2 @@
-def oxford_comma(array)
-
-end
+"fiddleheads, okra, kohlrabi".split(",")
+==> ["fiddleheads", "okra", "kohlrabi"]
